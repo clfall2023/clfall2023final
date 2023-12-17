@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<!--Case Lerario-->
+		<title>Christmas-Chan Album Page</title>
+		<meta charset="utf-8">
+        <link rel="stylesheet" href="final.css">
+    </head>
+    <body>
+        <div id="wrapper"> </div>
+    <h1>Christmas-Chan (2022)</h1>
+        <nav>
+        <ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="ily.html">ily</a></li>
+			<li><a href="cc.html">Christmas-Chan</a></li>
+			<li><a href="dq.html">The Diamond Queen</a></li>
+            </ul>
+        </nav>
+        <main>
+            <div id="gallery"> </div>
+            <h2> an EP perfect for festive season at night </h2>
+        <p>Christmas-Chan is an EP released November 25, 2022.</p>
+        <div>
+            <img class="float" src="CC.jpg" alt="Christmas-Chan Cover" height="200" width="200">
+            </div>
+            <p>  This EP was made in a time where I only listened to lo-fi hip hop, and was really in a festive mood. Because of this, I wanted to make a fun side project while I work on my second album.</p> 
+            <h3> Tracklist </h3>
+            <ol>
+		<li>snowfall (2:23)</li>
+		<li>carol of the bells (3:24)</li>
+		<li>golden leafless trees (2:38)</li>
+	    	<li>jingle bell rock (4:15)</li>
+		<li>christmas night (2:29)</li>
+	    </ol>
+                <h3> Track-by-track </h3>
+                <ul>
+		<li>snowfall is an original track intended to be listened to as snow falls, as the title implies.</li>
+		<li>carol of the bells is one of my favorite Christmas songs and it's an ambitious remake of the classic song, with tiny twists and turns.</li>
+		<li>golden leafless trees is a remake of an old original that is remastered and notably shorter than the orignal one.</li>
+		<li>jingle bell rock is nearly unrecognizable to its original counterpart, but still has the spirit of the original composition.</li>
+		<li>christmas night was the first song made for the EP and is a personal favorite.</li>
+		</ul>
+		<audio controls>
+    <p>Your browser does not support the audio element.</p>
+    <source src="media/snowfall.mp3" type="audio/mp3">
+    </audio>
+	<audio controls>
+    <p>Your browser does not support the audio element.</p>
+    <source src="media/carol.mp3" type="audio/mp3">
+    </audio>
+	<audio controls>
+    <p>Your browser does not support the audio element.</p>
+    <source src="media/jingebell.mp3" type="audio/mp3">
+    </audio>
+    </div>
+            <small> <a href="https://solstie.bandcamp.com/album/christmas-chan">Album cover source</a> <br>
+	    <a href="https://www.youtube.com/watch?v=Z0ajuTaHBtM">Listen to Jingle Bell Rock</a></small>
+        </main>
+        <footer>
+            <small><i>Copyright &copy; 2023 moosikofregret <br>
+		<a href="mailto:marshalllabsco@gmail.com">marshalllabsco@gmail.com</a></i></small>
+        </footer>
+    </body>
+</html>
