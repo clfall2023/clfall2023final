@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<!--Case Lerario-->
+		<title>The Diamond Queen Album Page</title>
+		<meta charset="utf-8">
+        <link rel="stylesheet" href="final.css">
+    </head>
+    <body>
+        <div id="wrapper"> </div>
+    <h1>The Diamond Queen (2023)</h1>
+        <nav>
+        <ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="ily.html">ily</a></li>
+			<li><a href="cc.html">Christmas-Chan</a></li>
+			<li><a href="dq.html">The Diamond Queen</a></li>
+            </ul>
+        </nav>
+        <main>
+            <div id="gallery"> </div>
+            <h2> I like High Guardian Spice so much I made an album about it. </h2>
+        <p>The Diamond Queen is my second studio album released January 10, 2023.</p>
+        <div>
+            <img class="float" src="DQ.jpg" alt="The Diamond Queen Cover" height="200" width="200">
+            </div>
+            <p>  High Guardian Spice is a cartoon that got a horrible reception from viewers for many different reasons, but I, however, enjoyed the show quite a bit. During 2022, I found myself writing a bunch of songs that involved the characters so I might as well make a full album about it. </p> 
+            <h3> Tracklist </h3>
+            <ol>
+		<li>lyngarth national anthem (2:00)</li>
+		<li>PARSLEY EVERYWHERE (3:56)</li>
+		<li>Caraway, Away! (2:49)</li>
+	    	<li>Elf Girl (3:06)</li>
+		<li>Slab & the Dumb Hats (4:04)</li>
+		<li>AMARYLLIS (3:22)</li>
+		<li>rosemary (2:41)</li>
+		<li>OLIVE (4:11)</li>
+		<li>aura (4:37)</li>
+		<li>Snapdragon (5:09)</li>
+	    </ol>
+                <h3> Track-by-track </h3>
+                <ul>
+		<li>lyngarth national anthem is a great national anthem for any country, since not many of them have an EDM bass drop.</li>
+		<li>PARSLEY EVERYWHERE is about the character from the show, named Parlsey, being everywhere on everyone's "HGS characters that are actually good" lists.</li>
+		<li>Caraway, Away! is about Professor Caraway. I haven't heard any love songs about a non-binary person, so I wanted to make one.</li>
+		<li>Elf Girl is about the elf girl in the show speaking to her mom in order to complete her character arc and goal in the show.</li>
+		<li>Slab & the Dumb Hats is about the witch in the show, Sage, being unable to decide which giant hat to wear.</li>
+		<li>AMARYLLIS is instrumental because I would believe if the character made an EDM song, it would be nothing but curse words that would have to be censored.</li>
+		<li>rosemary is the first song I made for this album. A sharp contrast from the bubbly and energetic character in the show, however.</li>
+		<li>OLIVE is a villain in the show with good intentions that happened to end up on the wrong path in life and this song is her narrating her regret.</li>
+		<li>aura is a personal favorite, and the only song not about the show. It doesn't go anywhere but has a good bassline, and a great separation between songs and those reasons are why its on here.</li>
+		<li>Snapdragon is the character I relate to most in the show, and is being sung to instead of being the narrator. I wanted this song to be full of hope and brighter days ahead for the character.</li>
+		</ul>
+		<audio controls>
+    <p>Your browser does not support the audio element.</p>
+    <source src="media/lna.mp3" type="audio/mp3">
+    </audio>
+	<audio controls>
+    <p>Your browser does not support the audio element.</p>
+    <source src="media/caraway.mp3" type="audio/mp3">
+    </audio>
+	<audio controls>
+    <p>Your browser does not support the audio element.</p>
+    <source src="media/olive.mp3" type="audio/mp3">
+    </audio>
+    </div>
+            <small> <a href="https://solstie.bandcamp.com/album/the-diamond-queen">Album cover source</a></small>
+	<small> <a href="https://www.crunchyroll.com/series/G4PH0WMEX/high-guardian-spice">Watch the show and form your own opinion</a></small>
+        </main>
+        <footer>
+            <small><i>Copyright &copy; 2023 moosikofregret <br>
+		<a href="mailto:marshalllabsco@gmail.com">marshalllabsco@gmail.com</a></i></small>
+        </footer>
+    </body>
+</html>
